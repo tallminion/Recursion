@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArraysWithRecusion/ArraysWithRecusion.iml" filepath="$PROJECT_DIR$/ArraysWithRecusion/ArraysWithRecusion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion.iml" filepath="$PROJECT_DIR$/Recursion.iml" />
     </modules>
   </component>
